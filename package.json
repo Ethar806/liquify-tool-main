@@ -26,7 +26,7 @@
     "genkit:watch": "genkit start -- tsx --watch src/ai/dev.ts",
     "build:next": "next build && move out next-export",
     "start": "electron .",
-    "build": "electron-packager . NAWLE --platform=win32 --arch=x64 --out=dist --overwrite",
+    "build": "electron-packager . NAWLE --platform=win32 --arch=x64 --out=dist --overwrite --prune=true --ignore=\"^\\/\\.next\" --ignore=\"^\\/\\.git\" --ignore=\"^\\/node_modules\\/\\.cache\"",
     "dist": "electron-builder --win"
   },
   "dependencies": {
