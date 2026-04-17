@@ -1,0 +1,151 @@
+{
+  "menu": {
+    "file": "ファイル",
+    "edit": "編集",
+    "view": "表示",
+    "select": "選択",
+    "canvas": "キャンバス",
+    "layer": "レイヤー",
+    "paint": "ペイント",
+    "history": "履歴",
+    "panel": "パネル",
+    "settings": "設定"
+  },
+  "file": {
+    "new": "新規",
+    "newProject": "新規プロジェクト",
+    "newFromTemplate": "テンプレートから新規作成",
+    "open": "開く...",
+    "openRecent": "最近使ったファイル",
+    "noRecentProjects": "最近使ったファイルはありません",
+    "save": "保存",
+    "saveAs": "名前を付けて保存...",
+    "import": "インポート...",
+    "exportAsPng": "PNGとしてエクスポート...",
+    "openMostRecent": "最新を開く",
+    "close": "閉じる"
+  },
+  "edit": {
+    "undo": "元に戻す",
+    "redo": "やり直す",
+    "cut": "切り取り",
+    "copy": "コピー",
+    "paste": "貼り付け",
+    "adjust": "調整",
+    "brightnessContrast": "明るさ・コントラスト",
+    "hueSaturation": "色相・彩度",
+    "transform": "変形",
+    "scale": "拡大縮小",
+    "rotate": "回転",
+    "fill": "塗りつぶし",
+    "clear": "消去",
+    "crop": "切り抜き"
+  },
+  "view": {
+    "showGrid": "グリッドを表示",
+    "showRulers": "定規を表示",
+    "showChannel": "チャンネルを表示",
+    "flipHorizontal": "左右反転",
+    "flipVertical": "上下反転",
+    "lockView": "表示をロック",
+    "zoomIn": "拡大",
+    "zoomOut": "縮小",
+    "rotateLeft": "左に回転",
+    "rotateRight": "右に回転",
+    "fullScreen": "全画面表示",
+    "toggleFullScreen": "全画面表示の切り替え"
+  },
+  "select": {
+    "selectAllRect": "矩形で全選択",
+    "selectAllLasso": "なげなわで全選択",
+    "selectCanvasFrame": "キャンバス枠の選択",
+    "invertSelection": "選択範囲の反転",
+    "deselect": "選択解除"
+  },
+  "canvas": {
+    "frameSize": "キャンバスサイズ...",
+    "useInfinite": "無限キャンバスを使用",
+    "background": "キャンバスの背景...",
+    "unitResolution": "単位と解像度...",
+    "clearCanvas": "キャンバスをクリア..."
+  },
+  "layer": {
+    "newLayer": "レイヤーを新規作成",
+    "mergeDown": "下のレイヤーと結合",
+    "duplicate": "複製",
+    "delete": "削除",
+    "clear": "消去",
+    "selectAll": "全レイヤーを選択",
+    "mergeAll": "すべてのレイヤーを結合..."
+  },
+  "paint": {
+    "resetAllBrushes": "すべてのブラシをリセット...",
+    "smallerBrush": "ブラシを小さく",
+    "biggerBrush": "ブラシを大きく",
+    "defaultColors": "デフォルトの色",
+    "swapColors": "色を入れ替え",
+    "darker": "暗く",
+    "brighter": "明るく",
+    "grayer": "灰色に",
+    "purer": "純色に",
+    "cooler": "寒色に",
+    "warmer": "暖色に"
+  },
+  "history": {
+    "newFromHistory": "履歴から新規作成",
+    "clearHistory": "履歴を消去...",
+    "setHistoryLimit": "履歴の制限を設定..."
+  },
+  "panel": {
+    "showHide": "パネルの表示/非表示",
+    "showConsole": "コンソールを表示",
+    "showTool": "ツールを表示",
+    "showLine": "線を表示",
+    "showBrushList": "ブラシリストを表示",
+    "showBrushOptions": "ブラシオプションを表示",
+    "showColor": "カラーを表示",
+    "showLayers": "レイヤーを表示",
+    "showSelect": "選択を表示",
+    "showView": "ビューを表示",
+    "showSidebar": "サイドバーを表示",
+    "showNumpad": "テンキーを表示",
+    "showExportbar": "エクスポートバーを表示",
+    "showPerformance": "パフォーマンスを表示",
+    "closeAll": "すべてのパネルを閉じる",
+    "toolTip": "ツールバーのツールアイコンをクリックするか、キーボードショートカット（例: ブラシはB）を使用してツールを変更します。",
+    "brushTip": "ツールバーのブラシアイコンをクリックして、ブラシ選択パネルを開きます。",
+    "brushOptionsTip": "ブラシのサイズや不透明度はツールバーで設定できます。",
+    "colorTip": "ツールバーのカラーパレットをクリックして、カラーピッカーを開きます。",
+    "layersTip": "ツールバーの「レイヤー」ボタンをクリックして、レイヤーパネルを開きます。",
+    "viewTip": "ツールバーの「表示」ボタンをクリックして、表示オプションを開きます。",
+    "allPanels": "すべてのパネル",
+    "allPanelsTip": "すべてのパネルはツールバーから制御されます。"
+  },
+  "settings": {
+    "userInterface": "ユーザーインターフェース...",
+    "windowOpacity": "ウィンドウの不透明度...",
+    "penMapping": "ペンマッピング...",
+    "penPressure": "筆圧...",
+    "multiTouch": "マルチタッチ...",
+    "rightSideButton": "右側面ボタン...",
+    "wheelDialScroller": "ホイールスクロール...",
+    "language": "言語...",
+    "leftHanded": "左利き設定",
+    "flipToolbar": "ツールバーを反転"
+  },
+  "languageDialog": {
+    "description": "アプリケーションの表示言語を変更します。"
+  },
+  "common": {
+    "save": "保存",
+    "cancel": "キャンセル"
+  },
+  "notImplemented": {
+    "title": "未実装機能",
+    "description": "この機能はまだ利用できません。"
+  },
+  "noRecentProjects": {
+    "title": "最近のプロジェクトはありません",
+    "description": "保存したプロジェクトがここに表示されます。"
+  }
+}

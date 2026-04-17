@@ -1,0 +1,151 @@
+{
+  "menu": {
+    "file": "Fichier",
+    "edit": "Édition",
+    "view": "Affichage",
+    "select": "Sélection",
+    "canvas": "Toile",
+    "layer": "Calque",
+    "paint": "Peinture",
+    "history": "Historique",
+    "panel": "Panneau",
+    "settings": "Paramètres"
+  },
+  "file": {
+    "new": "Nouveau",
+    "newProject": "Nouveau projet",
+    "newFromTemplate": "Nouveau depuis un modèle",
+    "open": "Ouvrir...",
+    "openRecent": "Ouvrir récent",
+    "noRecentProjects": "Aucun projet récent",
+    "save": "Enregistrer",
+    "saveAs": "Enregistrer sous...",
+    "import": "Importer...",
+    "exportAsPng": "Exporter en PNG...",
+    "openMostRecent": "Ouvrir le plus récent",
+    "close": "Fermer"
+  },
+  "edit": {
+    "undo": "Annuler",
+    "redo": "Rétablir",
+    "cut": "Couper",
+    "copy": "Copier",
+    "paste": "Coller",
+    "adjust": "Ajuster",
+    "brightnessContrast": "Luminosité/Contraste",
+    "hueSaturation": "Teinte/Saturation",
+    "transform": "Transformer",
+    "scale": "Échelle",
+    "rotate": "Rotation",
+    "fill": "Remplir",
+    "clear": "Effacer",
+    "crop": "Recadrer"
+  },
+  "view": {
+    "showGrid": "Afficher la grille",
+    "showRulers": "Afficher les règles",
+    "showChannel": "Afficher le canal",
+    "flipHorizontal": "Symétrie horizontale",
+    "flipVertical": "Symétrie verticale",
+    "lockView": "Verrouiller la vue",
+    "zoomIn": "Zoom avant",
+    "zoomOut": "Zoom arrière",
+    "rotateLeft": "Rotation gauche",
+    "rotateRight": "Rotation droite",
+    "fullScreen": "Plein écran",
+    "toggleFullScreen": "Basculer plein écran"
+  },
+  "select": {
+    "selectAllRect": "Tout sélectionner en rectangle",
+    "selectAllLasso": "Tout sélectionner au lasso",
+    "selectCanvasFrame": "Sélectionner le cadre",
+    "invertSelection": "Inverser la sélection",
+    "deselect": "Désélectionner"
+  },
+  "canvas": {
+    "frameSize": "Taille de la toile...",
+    "useInfinite": "Utiliser une toile infinie",
+    "background": "Arrière-plan...",
+    "unitResolution": "Unité et résolution...",
+    "clearCanvas": "Effacer la toile..."
+  },
+  "layer": {
+    "newLayer": "Nouveau calque au-dessus",
+    "mergeDown": "Fusionner vers le bas",
+    "duplicate": "Dupliquer",
+    "delete": "Supprimer",
+    "clear": "Effacer",
+    "selectAll": "Tout sélectionner",
+    "mergeAll": "Fusionner tous les calques..."
+  },
+  "paint": {
+    "resetAllBrushes": "Réinitialiser les pinceaux...",
+    "smallerBrush": "Pinceau plus petit",
+    "biggerBrush": "Pinceau plus grand",
+    "defaultColors": "Couleurs par défaut",
+    "swapColors": "Échanger les couleurs",
+    "darker": "Plus sombre",
+    "brighter": "Plus clair",
+    "grayer": "Plus gris",
+    "purer": "Plus pur",
+    "cooler": "Plus froid",
+    "warmer": "Plus chaud"
+  },
+  "history": {
+    "newFromHistory": "Nouveau depuis l'historique",
+    "clearHistory": "Effacer l'historique...",
+    "setHistoryLimit": "Définir la limite d'historique..."
+  },
+  "panel": {
+    "showHide": "Afficher/Masquer les panneaux",
+    "showConsole": "Console",
+    "showTool": "Outils",
+    "showLine": "Ligne",
+    "showBrushList": "Pinceaux",
+    "showBrushOptions": "Options de Pinceau",
+    "showColor": "Couleurs",
+    "showLayers": "Calques",
+    "showSelect": "Sélection",
+    "showView": "Vue",
+    "showSidebar": "Barre latérale",
+    "showNumpad": "Pavé numérique",
+    "showExportbar": "Barre d'export",
+    "showPerformance": "Performances",
+    "closeAll": "Fermer tous les panneaux",
+    "toolTip": "Cliquez sur une icône d'outil ou utilisez un raccourci clavier (ex: B pour le pinceau).",
+    "brushTip": "Cliquez sur l'icône du pinceau pour l'ouvrir.",
+    "brushOptionsTip": "Visualisez la taille et l'opacité dans la barre d'outils.",
+    "colorTip": "Cliquez sur les couleurs pour ouvrir la palette.",
+    "layersTip": "Cliquez sur l'onglet calques pour gérer vos couches.",
+    "viewTip": "Accédez aux options d'affichage de la toile.",
+    "allPanels": "Tous les panneaux",
+    "allPanelsTip": "Les fenêtres s'ouvrent via les raccourcis."
+  },
+  "settings": {
+    "userInterface": "Interface utilisateur...",
+    "windowOpacity": "Opacité de la fenêtre...",
+    "penMapping": "Configuration du stylet...",
+    "penPressure": "Pression du stylet...",
+    "multiTouch": "Multipoint...",
+    "rightSideButton": "Bouton click droit...",
+    "wheelDialScroller": "Molette de défilement...",
+    "language": "Langue (Language)...",
+    "leftHanded": "Mode gaucher",
+    "flipToolbar": "Inverser la barre d'outils"
+  },
+  "languageDialog": {
+    "description": "Modifiez la langue d'affichage de l'interface de l'application."
+  },
+  "common": {
+    "save": "Enregistrer",
+    "cancel": "Annuler"
+  },
+  "notImplemented": {
+    "title": "Non implémenté",
+    "description": "Cette fonctionnalité n'est pas encore disponible."
+  },
+  "noRecentProjects": {
+    "title": "Aucun projet récent",
+    "description": "Enregistrez d'abord un projet."
+  }
+}

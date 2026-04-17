@@ -1,0 +1,151 @@
+{
+  "menu": {
+    "file": "File",
+    "edit": "Modifica",
+    "view": "Visualizza",
+    "select": "Seleziona",
+    "canvas": "Tela",
+    "layer": "Livello",
+    "paint": "Pittura",
+    "history": "Cronologia",
+    "panel": "Pannello",
+    "settings": "Impostazioni"
+  },
+  "file": {
+    "new": "Nuovo",
+    "newProject": "Nuovo Progetto",
+    "newFromTemplate": "Nuovo da Modello",
+    "open": "Apri...",
+    "openRecent": "Apri recenti",
+    "noRecentProjects": "Nessun progetto recente",
+    "save": "Salva",
+    "saveAs": "Salva con nome...",
+    "import": "Importa...",
+    "exportAsPng": "Esporta come PNG...",
+    "openMostRecent": "Apri più recente",
+    "close": "Chiudi"
+  },
+  "edit": {
+    "undo": "Annulla",
+    "redo": "Ripristina",
+    "cut": "Taglia",
+    "copy": "Copia",
+    "paste": "Incolla",
+    "adjust": "Regola",
+    "brightnessContrast": "Luminosità/Contrasto",
+    "hueSaturation": "Tonalità/Saturazione",
+    "transform": "Trasforma",
+    "scale": "Scala",
+    "rotate": "Ruota",
+    "fill": "Riempi",
+    "clear": "Pulisci",
+    "crop": "Ritaglia"
+  },
+  "view": {
+    "showGrid": "Mostra griglia",
+    "showRulers": "Mostra righelli",
+    "showChannel": "Mostra canale",
+    "flipHorizontal": "Rifletti orizzontalmente",
+    "flipVertical": "Rifletti verticalmente",
+    "lockView": "Blocca vista",
+    "zoomIn": "Aumenta zoom",
+    "zoomOut": "Riduci zoom",
+    "rotateLeft": "Ruota a sinistra",
+    "rotateRight": "Ruota a destra",
+    "fullScreen": "Schermo intero",
+    "toggleFullScreen": "Attiva schermo intero"
+  },
+  "select": {
+    "selectAllRect": "Seleziona tutto come rettangolo",
+    "selectAllLasso": "Seleziona tutto come lazo",
+    "selectCanvasFrame": "Seleziona cornice tela",
+    "invertSelection": "Inverti selezione",
+    "deselect": "Deseleziona"
+  },
+  "canvas": {
+    "frameSize": "Dimensione tela...",
+    "useInfinite": "Usa tela infinita",
+    "background": "Sfondo tela...",
+    "unitResolution": "Unità e risoluzione...",
+    "clearCanvas": "Pulisci tela..."
+  },
+  "layer": {
+    "newLayer": "Crea livello sopra",
+    "mergeDown": "Unisci al livello sottostante",
+    "duplicate": "Duplica",
+    "delete": "Elimina",
+    "clear": "Pulisci",
+    "selectAll": "Seleziona tutti i livelli",
+    "mergeAll": "Unisci tutti i livelli..."
+  },
+  "paint": {
+    "resetAllBrushes": "Ripristina pennelli...",
+    "smallerBrush": "Pennello più piccolo",
+    "biggerBrush": "Pennello più grande",
+    "defaultColors": "Colori predefiniti",
+    "swapColors": "Scambia colori",
+    "darker": "Più scuro",
+    "brighter": "Più chiaro",
+    "grayer": "Più grigio",
+    "purer": "Più puro",
+    "cooler": "Più freddo",
+    "warmer": "Più caldo"
+  },
+  "history": {
+    "newFromHistory": "Nuovo da cronologia",
+    "clearHistory": "Cancella cronologia...",
+    "setHistoryLimit": "Imposta limite cronologia..."
+  },
+  "panel": {
+    "showHide": "Mostra/Nascondi pannelli",
+    "showConsole": "Mostra Console",
+    "showTool": "Mostra Strumenti",
+    "showLine": "Mostra Linea",
+    "showBrushList": "Mostra Pennelli",
+    "showBrushOptions": "Mostra Opzioni pennello",
+    "showColor": "Mostra Colore",
+    "showLayers": "Mostra Livelli",
+    "showSelect": "Mostra Selezione",
+    "showView": "Mostra Vista",
+    "showSidebar": "Mostra Barra laterale",
+    "showNumpad": "Mostra Tastierino numerico",
+    "showExportbar": "Mostra Barra di esportazione",
+    "showPerformance": "Mostra Prestazioni",
+    "closeAll": "Chiudi tutti i pannelli",
+    "toolTip": "Fai clic sull'icona dello strumento nella barra o usa le scorciatoie da tastiera.",
+    "brushTip": "Fai clic sull'icona del pennello per aprire la selezione dei pennelli.",
+    "brushOptionsTip": "I cursori di dimensione e opacità sono disponibili nella barra degli strumenti.",
+    "colorTip": "Fai clic sui colori per aprire il selettore colore.",
+    "layersTip": "Fai clic sul pulsante Livelli per aprire il pannello livelli.",
+    "viewTip": "Fai clic sul pulsante Vista per aprire le opzioni.",
+    "allPanels": "Tutti i Pannelli",
+    "allPanelsTip": "I menu si controllano dalla barra laterale."
+  },
+  "settings": {
+    "userInterface": "Interfaccia utente...",
+    "windowOpacity": "Opacità finestra...",
+    "penMapping": "Mappatura penna...",
+    "penPressure": "Pressione penna...",
+    "multiTouch": "Multi-touch...",
+    "rightSideButton": "Tasto laterale destro...",
+    "wheelDialScroller": "Cella scorrimento...",
+    "language": "Lingua (Language)...",
+    "leftHanded": "Per mancini",
+    "flipToolbar": "Inverti barra degli strumenti"
+  },
+  "languageDialog": {
+    "description": "Modifica la lingua di visualizzazione per l'interfaccia utente dell'applicazione."
+  },
+  "common": {
+    "save": "Salva",
+    "cancel": "Annulla"
+  },
+  "notImplemented": {
+    "title": "Funzionalità non implementata",
+    "description": "Questa funzionalità non è ancora disponibile."
+  },
+  "noRecentProjects": {
+    "title": "Nessun progetto recente",
+    "description": "Salva un progetto per visualizzarlo qui."
+  }
+}

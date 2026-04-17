@@ -1,0 +1,151 @@
+{
+  "menu": {
+    "file": "Arkiv",
+    "edit": "Redigera",
+    "view": "Visa",
+    "select": "Välj",
+    "canvas": "Duk",
+    "layer": "Lager",
+    "paint": "Måla",
+    "history": "Historik",
+    "panel": "Panel",
+    "settings": "Inställningar"
+  },
+  "file": {
+    "new": "Ny",
+    "newProject": "Nytt projekt",
+    "newFromTemplate": "Ny från mall",
+    "open": "Öppna...",
+    "openRecent": "Öppna senaste",
+    "noRecentProjects": "Inga senaste projekt",
+    "save": "Spara",
+    "saveAs": "Spara som...",
+    "import": "Importera...",
+    "exportAsPng": "Exportera som PNG...",
+    "openMostRecent": "Öppna den senaste",
+    "close": "Stäng"
+  },
+  "edit": {
+    "undo": "Ångra",
+    "redo": "Gör om",
+    "cut": "Klipp ut",
+    "copy": "Kopiera",
+    "paste": "Klistra in",
+    "adjust": "Justera",
+    "brightnessContrast": "Ljusstyrka/Kontrast",
+    "hueSaturation": "Nyans/Mättnad",
+    "transform": "Omforma",
+    "scale": "Skala",
+    "rotate": "Rotera",
+    "fill": "Fyll",
+    "clear": "Rensa",
+    "crop": "Beskär"
+  },
+  "view": {
+    "showGrid": "Visa rutnät",
+    "showRulers": "Visa linjaler",
+    "showChannel": "Visa kanal",
+    "flipHorizontal": "Vänd vågrätt",
+    "flipVertical": "Vänd lodrätt",
+    "lockView": "Lås vy",
+    "zoomIn": "Zooma in",
+    "zoomOut": "Zooma ut",
+    "rotateLeft": "Rotera åt vänster",
+    "rotateRight": "Rotera åt höger",
+    "fullScreen": "Helskärm",
+    "toggleFullScreen": "Växla helskärm"
+  },
+  "select": {
+    "selectAllRect": "Markera allt som rektangel",
+    "selectAllLasso": "Markera allt som lasso",
+    "selectCanvasFrame": "Välj dukram",
+    "invertSelection": "Omvänd markering",
+    "deselect": "Avmarkera"
+  },
+  "canvas": {
+    "frameSize": "Dukstorlek...",
+    "useInfinite": "Använd oändlig duk",
+    "background": "Dukbakgrund...",
+    "unitResolution": "Enhet och upplösning...",
+    "clearCanvas": "Rensa duk..."
+  },
+  "layer": {
+    "newLayer": "Nytt lager ovanför gällande",
+    "mergeDown": "Sammanfoga nedåt",
+    "duplicate": "Duplicera",
+    "delete": "Ta bort",
+    "clear": "Rensa",
+    "selectAll": "Markera alla lager",
+    "mergeAll": "Sammanfoga alla lager..."
+  },
+  "paint": {
+    "resetAllBrushes": "Återställ alla penslar...",
+    "smallerBrush": "Mindre pensel",
+    "biggerBrush": "Större pensel",
+    "defaultColors": "Standardfärger",
+    "swapColors": "Byt färger",
+    "darker": "Mörkare",
+    "brighter": "Ljusare",
+    "grayer": "Gråare",
+    "purer": "Renare",
+    "cooler": "Svalare",
+    "warmer": "Varmare"
+  },
+  "history": {
+    "newFromHistory": "Ny från historik",
+    "clearHistory": "Rensa historik...",
+    "setHistoryLimit": "Gräns för historik..."
+  },
+  "panel": {
+    "showHide": "Visa/dölj paneler",
+    "showConsole": "Visa Konsol",
+    "showTool": "Visa Verktyg",
+    "showLine": "Visa Linje",
+    "showBrushList": "Visa Pensellista",
+    "showBrushOptions": "Visa Penselalternativ",
+    "showColor": "Visa Färg",
+    "showLayers": "Visa Lager",
+    "showSelect": "Visa Markering",
+    "showView": "Visa Vy",
+    "showSidebar": "Visa Sidofält",
+    "showNumpad": "Visa Siffertangentbord",
+    "showExportbar": "Visa Exportfält",
+    "showPerformance": "Visa Prestanda",
+    "closeAll": "Stäng alla paneler",
+    "toolTip": "Klicka på verktygsikonen i verktygsfältet eller använd kortkommandon (t.ex. B för pensel).",
+    "brushTip": "Klicka på penselikonen för att öppna panelen för penselval.",
+    "brushOptionsTip": "Reglage för penselstorlek och opacitet finns i verktygsfältet.",
+    "colorTip": "Klicka på färgerna i verktygsfältet för att öppna färgväljaren.",
+    "layersTip": "Klicka på Lager i verktygsfältet för att öppna lagerpanelen.",
+    "viewTip": "Klicka på Vy i verktygsfältet för att öppna visningsalternativ.",
+    "allPanels": "Alla paneler",
+    "allPanelsTip": "Alla popup-paneler styrs från verktygsfältet."
+  },
+  "settings": {
+    "userInterface": "Användargränssnitt...",
+    "windowOpacity": "Fönsteropacitet...",
+    "penMapping": "Pennmappning...",
+    "penPressure": "Penntryck...",
+    "multiTouch": "Multitouch...",
+    "rightSideButton": "Höger/sidoknapp...",
+    "wheelDialScroller": "Scrollhjul...",
+    "language": "Språk (Language)...",
+    "leftHanded": "Vänsterhänt",
+    "flipToolbar": "Spegelvänd verktygsfältet"
+  },
+  "languageDialog": {
+    "description": "Ändra visningsspråk för programmets gränssnitt."
+  },
+  "common": {
+    "save": "Spara",
+    "cancel": "Avbryt"
+  },
+  "notImplemented": {
+    "title": "Funktionen saknas",
+    "description": "Denna funktion är inte tillgänglig ännu."
+  },
+  "noRecentProjects": {
+    "title": "Inga senaste projekt",
+    "description": "Spara ett projekt för att se det här."
+  }
+}

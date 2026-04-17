@@ -1,0 +1,151 @@
+{
+  "menu": {
+    "file": "파일",
+    "edit": "편집",
+    "view": "보기",
+    "select": "선택",
+    "canvas": "캔버스",
+    "layer": "레이어",
+    "paint": "페인트",
+    "history": "작업 내역",
+    "panel": "패널",
+    "settings": "설정"
+  },
+  "file": {
+    "new": "새로 만들기",
+    "newProject": "새 프로젝트",
+    "newFromTemplate": "템플릿에서 새로 만들기",
+    "open": "열기...",
+    "openRecent": "최근 항목 열기",
+    "noRecentProjects": "최근 프로젝트 없음",
+    "save": "저장",
+    "saveAs": "다른 이름으로 저장...",
+    "import": "가져오기...",
+    "exportAsPng": "PNG로 내보내기...",
+    "openMostRecent": "가장 최근 항목 열기",
+    "close": "닫기"
+  },
+  "edit": {
+    "undo": "실행 취소",
+    "redo": "다시 실행",
+    "cut": "잘라내기",
+    "copy": "복사",
+    "paste": "붙여넣기",
+    "adjust": "조정",
+    "brightnessContrast": "밝기/대비",
+    "hueSaturation": "색조/채도",
+    "transform": "변형",
+    "scale": "비율",
+    "rotate": "회전",
+    "fill": "채우기",
+    "clear": "지우기",
+    "crop": "자르기"
+  },
+  "view": {
+    "showGrid": "격자선 보기",
+    "showRulers": "눈금자 보기",
+    "showChannel": "채널 보기",
+    "flipHorizontal": "가로로 뒤집기",
+    "flipVertical": "세로로 뒤집기",
+    "lockView": "화면 잠금",
+    "zoomIn": "확대",
+    "zoomOut": "축소",
+    "rotateLeft": "왼쪽으로 회전",
+    "rotateRight": "오른쪽으로 회전",
+    "fullScreen": "전체 화면",
+    "toggleFullScreen": "전체 화면 전환"
+  },
+  "select": {
+    "selectAllRect": "사각형으로 모두 선택",
+    "selectAllLasso": "올가미로 모두 선택",
+    "selectCanvasFrame": "캔버스 프레임 선택",
+    "invertSelection": "선택 반전",
+    "deselect": "선택 해제"
+  },
+  "canvas": {
+    "frameSize": "캔버스 프레임 크기...",
+    "useInfinite": "무한 캔버스 사용",
+    "background": "캔버스 배경...",
+    "unitResolution": "단위 및 해상도...",
+    "clearCanvas": "캔버스 지우기..."
+  },
+  "layer": {
+    "newLayer": "현재 레이어 위에 새 레이어 만들기",
+    "mergeDown": "아래 레이어와 병합",
+    "duplicate": "복제",
+    "delete": "삭제",
+    "clear": "지우기",
+    "selectAll": "모든 레이어 선택",
+    "mergeAll": "모든 레이어 병합..."
+  },
+  "paint": {
+    "resetAllBrushes": "모든 브러시 초기화...",
+    "smallerBrush": "브러시 작게",
+    "biggerBrush": "브러시 크게",
+    "defaultColors": "기본 색상",
+    "swapColors": "색상 바꾸기",
+    "darker": "더 어둡게",
+    "brighter": "더 밝게",
+    "grayer": "더 회색으로",
+    "purer": "더 순수하게",
+    "cooler": "더 차갑게",
+    "warmer": "더 따뜻하게"
+  },
+  "history": {
+    "newFromHistory": "작업 내역에서 새로 만들기",
+    "clearHistory": "작업 내역 지우기...",
+    "setHistoryLimit": "작업 내역 한도 설정..."
+  },
+  "panel": {
+    "showHide": "패널 표시/숨기기",
+    "showConsole": "콘솔 숨기기/표시",
+    "showTool": "도구 표시",
+    "showLine": "선 표시",
+    "showBrushList": "브러시 목록 표시",
+    "showBrushOptions": "브러시 옵션 표시",
+    "showColor": "색상 표시",
+    "showLayers": "레이어 표시",
+    "showSelect": "선택 표시",
+    "showView": "보기 패널 표시",
+    "showSidebar": "사이드바 표시",
+    "showNumpad": "숫자 패드 표시",
+    "showExportbar": "내보내기 바 표시",
+    "showPerformance": "성능 표시",
+    "closeAll": "모든 패널 닫기",
+    "toolTip": "도구 모음에서 도구 아이콘을 클릭하거나 바로 가기 키(예: 브러시의 경우 B)를 사용하여 도구를 변경합니다.",
+    "brushTip": "도구 모음에서 브러시 아이콘을 클릭하여 브러시 선택 패널을 엽니다.",
+    "brushOptionsTip": "브러시 크기 및 불투명도 슬라이더는 도구 모음에 있습니다.",
+    "colorTip": "도구 모음에서 색상 상자를 클릭하여 색상 선택기를 엽니다.",
+    "layersTip": "도구 모음에서 레이어 버튼을 클릭하여 레이어 패널을 엽니다.",
+    "viewTip": "도구 모음에서 보기 버튼을 클릭하여 보기 옵션을 엽니다.",
+    "allPanels": "모든 패널",
+    "allPanelsTip": "모든 패널 팝업은 도구 모음에서 제어됩니다."
+  },
+  "settings": {
+    "userInterface": "사용자 인터페이스...",
+    "windowOpacity": "창 불투명도...",
+    "penMapping": "펜 매핑...",
+    "penPressure": "필압...",
+    "multiTouch": "멀티 터치...",
+    "rightSideButton": "오른쪽/측면 버튼...",
+    "wheelDialScroller": "휠/다이얼 스크롤러...",
+    "language": "언어...",
+    "leftHanded": "왼손잡이 모드",
+    "flipToolbar": "도구 모음 반전"
+  },
+  "languageDialog": {
+    "description": "애플리케이션 사용자 인터페이스 표시 언어를 변경합니다."
+  },
+  "common": {
+    "save": "저장",
+    "cancel": "취소"
+  },
+  "notImplemented": {
+    "title": "기능 구현되지 않음",
+    "description": "이 기능은 아직 제공되지 않습니다."
+  },
+  "noRecentProjects": {
+    "title": "최근 프로젝트 없음",
+    "description": "프로젝트를 저장하면 여기에 표시됩니다."
+  }
+}

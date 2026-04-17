@@ -1,0 +1,151 @@
+{
+  "menu": {
+    "file": "Plik",
+    "edit": "Edycja",
+    "view": "Widok",
+    "select": "Wybierz",
+    "canvas": "Płótno",
+    "layer": "Warstwa",
+    "paint": "Malowanie",
+    "history": "Historia",
+    "panel": "Panel",
+    "settings": "Ustawienia"
+  },
+  "file": {
+    "new": "Nowy",
+    "newProject": "Nowy projekt",
+    "newFromTemplate": "Nowy z szablonu",
+    "open": "Otwórz...",
+    "openRecent": "Otwórz ostatnie",
+    "noRecentProjects": "Brak ostatnich projektów",
+    "save": "Zapisz",
+    "saveAs": "Zapisz jako...",
+    "import": "Importuj...",
+    "exportAsPng": "Eksportuj jako PNG...",
+    "openMostRecent": "Otwórz najnowszy",
+    "close": "Zamknij"
+  },
+  "edit": {
+    "undo": "Cofnij",
+    "redo": "Ponów",
+    "cut": "Wytnij",
+    "copy": "Kopiuj",
+    "paste": "Wklej",
+    "adjust": "Dopasuj",
+    "brightnessContrast": "Jasność/Kontrast",
+    "hueSaturation": "Odcień/Nasycenie",
+    "transform": "Przekształć",
+    "scale": "Skala",
+    "rotate": "Obróć",
+    "fill": "Wypełnij",
+    "clear": "Wyczyść",
+    "crop": "Kadruj"
+  },
+  "view": {
+    "showGrid": "Pokaż siatkę",
+    "showRulers": "Pokaż linijki",
+    "showChannel": "Pokaż kanał",
+    "flipHorizontal": "Odbij w poziomie",
+    "flipVertical": "Odbij w pionie",
+    "lockView": "Zablokuj widok",
+    "zoomIn": "Powiększ",
+    "zoomOut": "Pomniejsz",
+    "rotateLeft": "Obróć w lewo",
+    "rotateRight": "Obróć w prawo",
+    "fullScreen": "Pełny ekran",
+    "toggleFullScreen": "Przełącz pełny ekran"
+  },
+  "select": {
+    "selectAllRect": "Wybierz wszystko jako prostokąt",
+    "selectAllLasso": "Wybierz wszystko jako lasso",
+    "selectCanvasFrame": "Wybierz ramkę płótna",
+    "invertSelection": "Odwróć zaznaczenie",
+    "deselect": "Odznacz"
+  },
+  "canvas": {
+    "frameSize": "Rozmiar płótna...",
+    "useInfinite": "Użyj nieskończonego płótna",
+    "background": "Tło płótna...",
+    "unitResolution": "Jednostka i rozdzielczość...",
+    "clearCanvas": "Wyczyść płótno..."
+  },
+  "layer": {
+    "newLayer": "Nowa warstwa powyżej",
+    "mergeDown": "Scal w dół",
+    "duplicate": "Duplikuj",
+    "delete": "Usuń",
+    "clear": "Wyczyść",
+    "selectAll": "Wybierz wszystkie warstwy",
+    "mergeAll": "Scal wszystkie warstwy..."
+  },
+  "paint": {
+    "resetAllBrushes": "Zresetuj wszystkie pędzle...",
+    "smallerBrush": "Mniejszy pędzel",
+    "biggerBrush": "Większy pędzel",
+    "defaultColors": "Domyślne kolory",
+    "swapColors": "Zamień kolory",
+    "darker": "Ciemniejszy",
+    "brighter": "Jaśniejszy",
+    "grayer": "Bardziej szary",
+    "purer": "Czystszy",
+    "cooler": "Chłodniejszy",
+    "warmer": "Cieplejszy"
+  },
+  "history": {
+    "newFromHistory": "Nowy z historii",
+    "clearHistory": "Wyczyść historię...",
+    "setHistoryLimit": "Ustaw limit historii..."
+  },
+  "panel": {
+    "showHide": "Pokaż/ukryj panele",
+    "showConsole": "Pokaż konsolę",
+    "showTool": "Pokaż narzędzie",
+    "showLine": "Pokaż linię",
+    "showBrushList": "Pokaż listę pędzli",
+    "showBrushOptions": "Pokaż opcje pędzla",
+    "showColor": "Pokaż kolor",
+    "showLayers": "Pokaż warstwy",
+    "showSelect": "Pokaż zaznaczenie",
+    "showView": "Pokaż widok",
+    "showSidebar": "Pokaż pasek boczny",
+    "showNumpad": "Pokaż klawiaturę numeryczną",
+    "showExportbar": "Pokaż pasek eksportu",
+    "showPerformance": "Pokaż wydajność",
+    "closeAll": "Zamknij wszystkie panele",
+    "toolTip": "Kliknij narzędzie na pasku lub użyj skrótu klawiszowego (np. B dla Pędzla).",
+    "brushTip": "Kliknij pędzel na pasku, aby otworzyć panel pędzli.",
+    "brushOptionsTip": "Rozmiar i przezroczystość pędzla są na pasku narzędzi.",
+    "colorTip": "Kliknij kolor na pasku narzędzi, aby otworzyć próbnik kolorów.",
+    "layersTip": "Kliknij przycisk Warstwy, aby otworzyć obszar warstw.",
+    "viewTip": "Kliknij Widok, aby otworzyć opcje widoku.",
+    "allPanels": "Wszystkie panele",
+    "allPanelsTip": "Wszystkie panele obsługuje się z paska narzędzi."
+  },
+  "settings": {
+    "userInterface": "Interfejs użytkownika...",
+    "windowOpacity": "Przezroczystość okna...",
+    "penMapping": "Mapowanie pióra...",
+    "penPressure": "Nacisk pióra...",
+    "multiTouch": "Wielodotyk...",
+    "rightSideButton": "Przycisk boczny/prawy...",
+    "wheelDialScroller": "Pokrętło myszy...",
+    "language": "Język (Language)...",
+    "leftHanded": "Dla leworęcznych",
+    "flipToolbar": "Odwróć pasek narzędzi"
+  },
+  "languageDialog": {
+    "description": "Zmień język wyświetlania interfejsu aplikacji."
+  },
+  "common": {
+    "save": "Zapisz",
+    "cancel": "Anuluj"
+  },
+  "notImplemented": {
+    "title": "Funkcja niezaimplementowana",
+    "description": "Ta funkcja nie jest jeszcze dostępna."
+  },
+  "noRecentProjects": {
+    "title": "Brak ostatnich projektów",
+    "description": "Zapisz projekt, aby zobaczyć go tutaj."
+  }
+}

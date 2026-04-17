@@ -1,0 +1,151 @@
+{
+  "menu": {
+    "file": "文件",
+    "edit": "编辑",
+    "view": "视图",
+    "select": "选择",
+    "canvas": "画布",
+    "layer": "图层",
+    "paint": "绘画",
+    "history": "历史记录",
+    "panel": "面板",
+    "settings": "设置"
+  },
+  "file": {
+    "new": "新建",
+    "newProject": "新建项目",
+    "newFromTemplate": "从模板新建",
+    "open": "打开...",
+    "openRecent": "打开最近项目",
+    "noRecentProjects": "没有最近项目",
+    "save": "保存",
+    "saveAs": "另存为...",
+    "import": "导入...",
+    "exportAsPng": "导出为 PNG...",
+    "openMostRecent": "打开最新文件",
+    "close": "关闭"
+  },
+  "edit": {
+    "undo": "撤销",
+    "redo": "重做",
+    "cut": "剪切",
+    "copy": "复制",
+    "paste": "粘贴",
+    "adjust": "调整",
+    "brightnessContrast": "亮度/对比度",
+    "hueSaturation": "色相/饱和度",
+    "transform": "变换",
+    "scale": "缩放",
+    "rotate": "旋转",
+    "fill": "填充",
+    "clear": "清除",
+    "crop": "裁剪"
+  },
+  "view": {
+    "showGrid": "显示网格",
+    "showRulers": "显示标尺",
+    "showChannel": "显示通道",
+    "flipHorizontal": "水平翻转",
+    "flipVertical": "垂直翻转",
+    "lockView": "锁定视图",
+    "zoomIn": "放大",
+    "zoomOut": "缩小",
+    "rotateLeft": "向左旋转",
+    "rotateRight": "向右旋转",
+    "fullScreen": "全屏",
+    "toggleFullScreen": "切换全屏"
+  },
+  "select": {
+    "selectAllRect": "矩形全选",
+    "selectAllLasso": "套索全选",
+    "selectCanvasFrame": "选择画布边框",
+    "invertSelection": "反选",
+    "deselect": "取消选择"
+  },
+  "canvas": {
+    "frameSize": "画布尺寸...",
+    "useInfinite": "使用无限画布",
+    "background": "画布背景...",
+    "unitResolution": "单位与分辨率...",
+    "clearCanvas": "清空画布..."
+  },
+  "layer": {
+    "newLayer": "在当前上方新建图层",
+    "mergeDown": "向下合并图层",
+    "duplicate": "复制",
+    "delete": "删除",
+    "clear": "清除",
+    "selectAll": "选择所有图层",
+    "mergeAll": "合并所有图层..."
+  },
+  "paint": {
+    "resetAllBrushes": "重置所有画笔...",
+    "smallerBrush": "缩小画笔",
+    "biggerBrush": "放大画笔",
+    "defaultColors": "默认颜色",
+    "swapColors": "交换颜色",
+    "darker": "更暗",
+    "brighter": "更亮",
+    "grayer": "更灰",
+    "purer": "更纯",
+    "cooler": "更冷",
+    "warmer": "更暖"
+  },
+  "history": {
+    "newFromHistory": "从历史记录新建",
+    "clearHistory": "清除历史记录...",
+    "setHistoryLimit": "设置历史记录限制..."
+  },
+  "panel": {
+    "showHide": "显示/隐藏面板",
+    "showConsole": "显示控制台",
+    "showTool": "显示工具",
+    "showLine": "显示线条",
+    "showBrushList": "显示画笔列表",
+    "showBrushOptions": "显示画笔选项",
+    "showColor": "显示颜色",
+    "showLayers": "显示图层",
+    "showSelect": "显示选择",
+    "showView": "显示视图",
+    "showSidebar": "显示侧边栏",
+    "showNumpad": "显示数字键盘",
+    "showExportbar": "显示导出栏",
+    "showPerformance": "显示性能选项",
+    "closeAll": "关闭所有面板",
+    "toolTip": "在工具栏中点击工具图标或使用快捷键（如 B 代表画笔）来更改工具。",
+    "brushTip": "在工具栏中点击画笔图标以打开画笔选择面板。",
+    "brushOptionsTip": "工具栏中提供画笔大小和不透明度滑块。",
+    "colorTip": "在工具栏中点击颜色框以打开颜色选择器。",
+    "layersTip": "在工具栏中点击“图层”按钮以打开图层面板。",
+    "viewTip": "在工具栏中点击“视图”按钮以打开视图选项。",
+    "allPanels": "所有面板",
+    "allPanelsTip": "所有面板弹出窗口均通过工具栏控制。"
+  },
+  "settings": {
+    "userInterface": "用户界面...",
+    "windowOpacity": "窗口不透明度...",
+    "penMapping": "压感笔映射...",
+    "penPressure": "笔尖压力...",
+    "multiTouch": "多点触控...",
+    "rightSideButton": "右侧/侧边按钮...",
+    "wheelDialScroller": "滚轮/拨盘...",
+    "language": "语言 (Language)...",
+    "leftHanded": "左撇子模式",
+    "flipToolbar": "翻转工具栏"
+  },
+  "languageDialog": {
+    "description": "更改应用程序用户界面的显示语言。"
+  },
+  "common": {
+    "save": "保存",
+    "cancel": "取消"
+  },
+  "notImplemented": {
+    "title": "功能未实现",
+    "description": "此功能尚未可用。"
+  },
+  "noRecentProjects": {
+    "title": "没有近期项目",
+    "description": "保存项目后可在此处查看。"
+  }
+}

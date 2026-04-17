@@ -1,0 +1,150 @@
+{
+  "menu": {
+    "file": "File",
+    "edit": "Edit",
+    "view": "View",
+    "select": "Select",
+    "canvas": "Canvas",
+    "layer": "Layer",
+    "paint": "Paint",
+    "history": "History",
+    "panel": "Panel",
+    "settings": "Settings"
+  },
+  "file": {
+    "new": "New",
+    "newProject": "New Project",
+    "open": "Open...",
+    "openRecent": "Open recent",
+    "noRecentProjects": "No recent projects",
+    "save": "Save",
+    "saveAs": "Save as...",
+    "import": "Import...",
+    "exportAsPng": "Export as PNG...",
+    "openMostRecent": "Open Most Recent",
+    "close": "Close"
+  },
+  "edit": {
+    "undo": "Undo",
+    "redo": "Redo",
+    "cut": "Cut",
+    "copy": "Copy",
+    "paste": "Paste",
+    "adjust": "Adjust",
+    "brightnessContrast": "Brightness/Contrast",
+    "hueSaturation": "Hue/Saturation",
+    "transform": "Transform",
+    "scale": "Scale",
+    "rotate": "Rotate",
+    "fill": "Fill",
+    "clear": "Clear",
+    "crop": "Crop"
+  },
+  "view": {
+    "showGrid": "Show grid",
+    "showRulers": "Show rulers",
+    "showChannel": "Show channel",
+    "flipHorizontal": "Flip horizontal",
+    "flipVertical": "Flip vertical",
+    "lockView": "Lock view",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "rotateLeft": "Rotate left",
+    "rotateRight": "Rotate right",
+    "fullScreen": "Full screen",
+    "toggleFullScreen": "Toggle full screen",
+    "recenter": "Re-Center"
+  },
+  "select": {
+    "selectAllRect": "Select all as rectangle",
+    "selectAllLasso": "Select all as lasso",
+    "selectCanvasFrame": "Select canvas frame",
+    "invertSelection": "Invert selection",
+    "deselect": "Deselect"
+  },
+  "canvas": {
+    "frameSize": "Canvas frame size...",
+    "useInfinite": "Use infinite canvas",
+    "background": "Canvas background...",
+    "unitResolution": "Canvas unit & resolution...",
+    "clearCanvas": "Clear canvas..."
+  },
+  "layer": {
+    "newLayer": "New layer above current",
+    "mergeDown": "Merge layer with below",
+    "duplicate": "Duplicate",
+    "delete": "Delete",
+    "clear": "Clear",
+    "selectAll": "Select all layers",
+    "mergeAll": "Merge all layers..."
+  },
+  "paint": {
+    "resetAllBrushes": "Reset all brushes...",
+    "smallerBrush": "Smaller brush",
+    "biggerBrush": "Bigger brush",
+    "defaultColors": "Default colors",
+    "swapColors": "Swap colors",
+    "darker": "Darker",
+    "brighter": "Brighter",
+    "grayer": "Grayer",
+    "purer": "Purer",
+    "cooler": "Cooler",
+    "warmer": "Warmer"
+  },
+  "history": {
+    "newFromHistory": "New from History",
+    "clearHistory": "Clear history...",
+    "setHistoryLimit": "Set history limit..."
+  },
+  "panel": {
+    "showHide": "Show/hide panels",
+    "showConsole": "Show Console",
+    "showTool": "Show Tool",
+    "showLine": "Show Line",
+    "showBrushList": "Show Brush list",
+    "showBrushOptions": "Show Brush options",
+    "showColor": "Show Color",
+    "showLayers": "Show Layers",
+    "showSelect": "Show Select",
+    "showView": "Show View",
+    "showExportbar": "Show Exportbar",
+    "showPerformance": "Show Performance",
+    "closeAll": "Close all panels",
+    "toolTip": "Click the tool icon in the toolbar or use keyboard shortcuts (e.g. B for Brush) to change tools.",
+    "brushTip": "Click the brush icon in the toolbar to open the brush selection panel.",
+    "brushOptionsTip": "Brush size and opacity sliders are available in the toolbar.",
+    "colorTip": "Click the color wells in the toolbar to open the color picker.",
+    "layersTip": "Click the Layers button in the toolbar to open the layers panel.",
+    "viewTip": "Click the View button in the toolbar to open view options.",
+    "allPanels": "All Panels",
+    "allPanelsTip": "All panel popups are controlled from the toolbar."
+  },
+  "settings": {
+    "userInterface": "User interface...",
+    "windowOpacity": "Window opacity...",
+    "penMapping": "Pen mapping...",
+    "penPressure": "Pen pressure...",
+    "multiTouch": "Multi-touch...",
+    "rightSideButton": "Right/side button...",
+    "wheelDialScroller": "Wheel/dial scroller...",
+    "language": "Language...",
+    "leftHanded": "Left handed",
+    "flipToolbar": "Flip toolbar",
+    "simulatePressure": "Simulate pressure (Mouse)"
+  },
+  "languageDialog": {
+    "description": "Change the display language for the application user interface."
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "notImplemented": {
+    "title": "Feature not implemented",
+    "description": "This feature is not yet available."
+  },
+  "noRecentProjects": {
+    "title": "No recent projects",
+    "description": "Save a project to see it here."
+  }
+}

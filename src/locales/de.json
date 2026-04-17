@@ -1,0 +1,151 @@
+{
+  "menu": {
+    "file": "Datei",
+    "edit": "Bearbeiten",
+    "view": "Ansicht",
+    "select": "Auswahl",
+    "canvas": "Leinwand",
+    "layer": "Ebene",
+    "paint": "Malen",
+    "history": "Verlauf",
+    "panel": "Panel",
+    "settings": "Einstellungen"
+  },
+  "file": {
+    "new": "Neu",
+    "newProject": "Neues Projekt",
+    "newFromTemplate": "Neu aus Vorlage",
+    "open": "Öffnen...",
+    "openRecent": "Zuletzt geöffnet",
+    "noRecentProjects": "Keine kürzlichen Projekte",
+    "save": "Speichern",
+    "saveAs": "Speichern unter...",
+    "import": "Importieren...",
+    "exportAsPng": "Als PNG exportieren...",
+    "openMostRecent": "Neuestes öffnen",
+    "close": "Schließen"
+  },
+  "edit": {
+    "undo": "Rückgängig",
+    "redo": "Wiederholen",
+    "cut": "Ausschneiden",
+    "copy": "Kopieren",
+    "paste": "Einfügen",
+    "adjust": "Anpassen",
+    "brightnessContrast": "Helligkeit/Kontrast",
+    "hueSaturation": "Farbton/Sättigung",
+    "transform": "Transformieren",
+    "scale": "Skalieren",
+    "rotate": "Drehen",
+    "fill": "Füllen",
+    "clear": "Löschen",
+    "crop": "Zuschneiden"
+  },
+  "view": {
+    "showGrid": "Raster anzeigen",
+    "showRulers": "Lineale anzeigen",
+    "showChannel": "Kanal anzeigen",
+    "flipHorizontal": "Horizontal spiegeln",
+    "flipVertical": "Vertikal spiegeln",
+    "lockView": "Ansicht sperren",
+    "zoomIn": "Vergrößern",
+    "zoomOut": "Verkleinern",
+    "rotateLeft": "Nach links drehen",
+    "rotateRight": "Nach rechts drehen",
+    "fullScreen": "Vollbild",
+    "toggleFullScreen": "Vollbild umschalten"
+  },
+  "select": {
+    "selectAllRect": "Alles als Rechteck auswählen",
+    "selectAllLasso": "Alles als Lasso auswählen",
+    "selectCanvasFrame": "Leinwandrahmen auswählen",
+    "invertSelection": "Auswahl umkehren",
+    "deselect": "Auswahl aufheben"
+  },
+  "canvas": {
+    "frameSize": "Leinwand-Größe...",
+    "useInfinite": "Unendliche Leinwand verwenden",
+    "background": "Leinwand-Hintergrund...",
+    "unitResolution": "Einheit & Auflösung...",
+    "clearCanvas": "Leinwand leeren..."
+  },
+  "layer": {
+    "newLayer": "Neue Ebene darüber",
+    "mergeDown": "Mit darunterliegender zusammenfügen",
+    "duplicate": "Duplizieren",
+    "delete": "Löschen",
+    "clear": "Leeren",
+    "selectAll": "Alle Ebenen auswählen",
+    "mergeAll": "Alle Ebenen zusammenfügen..."
+  },
+  "paint": {
+    "resetAllBrushes": "Alle Pinsel zurücksetzen...",
+    "smallerBrush": "Kleinerer Pinsel",
+    "biggerBrush": "Größerer Pinsel",
+    "defaultColors": "Standardfarben",
+    "swapColors": "Farben tauschen",
+    "darker": "Dunkler",
+    "brighter": "Heller",
+    "grayer": "Grauer",
+    "purer": "Reiner",
+    "cooler": "Kühler",
+    "warmer": "Wärmer"
+  },
+  "history": {
+    "newFromHistory": "Neu aus Verlauf",
+    "clearHistory": "Verlauf löschen...",
+    "setHistoryLimit": "Verlaufslimit festlegen..."
+  },
+  "panel": {
+    "showHide": "Panels ein-/ausblenden",
+    "showConsole": "Konsole anzeigen",
+    "showTool": "Werkzeug anzeigen",
+    "showLine": "Linie anzeigen",
+    "showBrushList": "Pinselliste anzeigen",
+    "showBrushOptions": "Pinseloptionen anzeigen",
+    "showColor": "Farbe anzeigen",
+    "showLayers": "Ebenen anzeigen",
+    "showSelect": "Auswahl anzeigen",
+    "showView": "Ansicht anzeigen",
+    "showSidebar": "Seitenleiste anzeigen",
+    "showNumpad": "Ziffernblock anzeigen",
+    "showExportbar": "Exportleiste anzeigen",
+    "showPerformance": "Leistung anzeigen",
+    "closeAll": "Alle Panels schließen",
+    "toolTip": "Klicken Sie auf das Werkzeugsymbol in der Symbolleiste oder verwenden Sie Tastenkombinationen (z.B. B für Pinsel).",
+    "brushTip": "Klicken Sie auf das Pinselsymbol in der Symbolleiste, um das Pinselauswahl-Panel zu öffnen.",
+    "brushOptionsTip": "Regler für Pinselgröße und Deckkraft finden Sie in der Symbolleiste.",
+    "colorTip": "Klicken Sie auf die Farbfelder in der Symbolleiste, um den Farbwähler zu öffnen.",
+    "layersTip": "Klicken Sie auf Ebenen in der Symbolleiste, um das Ebenen-Panel zu öffnen.",
+    "viewTip": "Klicken Sie auf Ansicht in der Symbolleiste, um die Ansichtsoptionen zu öffnen.",
+    "allPanels": "Alle Panels",
+    "allPanelsTip": "Alle Panel-Popups werden über die Symbolleiste gesteuert."
+  },
+  "settings": {
+    "userInterface": "Benutzeroberfläche...",
+    "windowOpacity": "Fensterdeckkraft...",
+    "penMapping": "Stiftanpassung...",
+    "penPressure": "Stiftdruck...",
+    "multiTouch": "Multitouch...",
+    "rightSideButton": "Rechte/Seitliche Taste...",
+    "wheelDialScroller": "Mausrad/Scroller...",
+    "language": "Sprache...",
+    "leftHanded": "Linkshänder",
+    "flipToolbar": "Symbolleiste spiegeln"
+  },
+  "languageDialog": {
+    "description": "Ändern Sie die Anzeigesprache für die Benutzeroberfläche der Anwendung."
+  },
+  "common": {
+    "save": "Speichern",
+    "cancel": "Abbrechen"
+  },
+  "notImplemented": {
+    "title": "Zukünftige Funktion",
+    "description": "Diese Funktion ist noch nicht verfügbar."
+  },
+  "noRecentProjects": {
+    "title": "Keine kürzlichen Projekte",
+    "description": "Speichern Sie ein Projekt, um es hier zu sehen."
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "menu": {
+    "file": "फ़ाइल",
+    "edit": "संपादित करें",
+    "view": "देखें",
+    "select": "चुनें",
+    "canvas": "कैनवस",
+    "layer": "लेयर",
+    "paint": "पेंट",
+    "history": "इतिहास",
+    "panel": "पैनल",
+    "settings": "सेटिंग्स"
+  },
+  "file": {
+    "new": "नया",
+    "newProject": "नया प्रोजेक्ट",
+    "newFromTemplate": "टेम्प्लेट से नया",
+    "open": "खोलें...",
+    "openRecent": "हाल ही के खोलें",
+    "noRecentProjects": "कोई हालिया प्रोजेक्ट नहीं",
+    "save": "सहेजें",
+    "saveAs": "इस रूप में सहेजें...",
+    "import": "आयात करें...",
+    "exportAsPng": "PNG के रूप में निर्यात करें...",
+    "openMostRecent": "सबसे हाल ही का खोलें",
+    "close": "बंद करें"
+  },
+  "edit": {
+    "undo": "पूर्ववत करें",
+    "redo": "फिर से करें",
+    "cut": "काटें",
+    "copy": "कॉपी करें",
+    "paste": "चिपकाएं",
+    "adjust": "समायोजित करें",
+    "brightnessContrast": "चमक/विविधता",
+    "hueSaturation": "रंग/संतृप्ति",
+    "transform": "बदलना",
+    "scale": "बड़ा-छोटा करें",
+    "rotate": "घुमाएं",
+    "fill": "भरें",
+    "clear": "साफ़ करें",
+    "crop": "काट-छाँट करें"
+  },
+  "view": {
+    "showGrid": "ग्रिड दिखाएं",
+    "showRulers": "स्केल दिखाएं",
+    "showChannel": "चैनल दिखाएं",
+    "flipHorizontal": "क्षैतिज रूप से पलटें",
+    "flipVertical": "लंबवत पलटें",
+    "lockView": "दृश्य लॉक करें",
+    "zoomIn": "ज़ूम इन",
+    "zoomOut": "ज़ूम आउट",
+    "rotateLeft": "बाएं घुमाएं",
+    "rotateRight": "दाएं घुमाएं",
+    "fullScreen": "पूरी स्क्रीन",
+    "toggleFullScreen": "पूर्ण स्क्रीन टॉगल करें"
+  },
+  "select": {
+    "selectAllRect": "आयत के रूप में सभी का चयन करें",
+    "selectAllLasso": "लासो के रूप में सभी का चयन करें",
+    "selectCanvasFrame": "कैनवस फ़्रेम चुनें",
+    "invertSelection": "चयन उल्टा करें",
+    "deselect": "चयन रद्द करें"
+  },
+  "canvas": {
+    "frameSize": "कैनवस फ्रेम का आकार...",
+    "useInfinite": "अनंत कैनवस का उपयोग करें",
+    "background": "कैनवस पृष्ठभूमि...",
+    "unitResolution": "कैनवस इकाई और रिज़ॉल्यूशन...",
+    "clearCanvas": "कैनवस साफ़ करें..."
+  },
+  "layer": {
+    "newLayer": "वर्तमान के ऊपर नई लेयर",
+    "mergeDown": "नीचे की लेयर के साथ मिलाएं",
+    "duplicate": "डुप्लिकेट करें",
+    "delete": "हटाएं",
+    "clear": "साफ़ करें",
+    "selectAll": "सभी लेयर चुनें",
+    "mergeAll": "सभी लेयर मिलाएं..."
+  },
+  "paint": {
+    "resetAllBrushes": "सभी ब्रश रीसेट करें...",
+    "smallerBrush": "छोटा ब्रश",
+    "biggerBrush": "बड़ा ब्रश",
+    "defaultColors": "डिफ़ॉल्ट रंग",
+    "swapColors": "रंग बदलें",
+    "darker": "गहरा",
+    "brighter": "चमकीला",
+    "grayer": "धूसर",
+    "purer": "शुद्ध",
+    "cooler": "ठंडा",
+    "warmer": "गर्म"
+  },
+  "history": {
+    "newFromHistory": "इतिहास से नया",
+    "clearHistory": "इतिहास साफ़ करें...",
+    "setHistoryLimit": "इतिहास सीमा सेट करें..."
+  },
+  "panel": {
+    "showHide": "पैनल दिखाएं/छिपाएं",
+    "showConsole": "कंसोल दिखाएं",
+    "showTool": "उपकरण दिखाएं",
+    "showLine": "रेखा दिखाएं",
+    "showBrushList": "ब्रश सूची दिखाएं",
+    "showBrushOptions": "ब्रश विकल्प दिखाएं",
+    "showColor": "रंग दिखाएं",
+    "showLayers": "लेयर्स दिखाएं",
+    "showSelect": "चयन दिखाएं",
+    "showView": "दृश्य दिखाएं",
+    "showSidebar": "साइडबार दिखाएं",
+    "showNumpad": "नम्पैड दिखाएं",
+    "showExportbar": "एक्सपोर्टबार दिखाएं",
+    "showPerformance": "प्रदर्शन दिखाएं",
+    "closeAll": "सभी पैनल बंद करें",
+    "toolTip": "उपकरण बदलने के लिए टूलबार में टूल आइकन पर क्लिक करें या कीबोर्ड शॉर्टकट का उपयोग करें (जैसे ब्रश के लिए B)।",
+    "brushTip": "ब्रश चयन पैनल खोलने के लिए टूलबार में ब्रश आइकन पर क्लिक करें।",
+    "brushOptionsTip": "ब्रश का आकार और अपारदर्शिता स्लाइडर टूलबार में उपलब्ध हैं।",
+    "colorTip": "रंग पिकर खोलने के लिए टूलबार में रंग बॉक्स पर क्लिक करें।",
+    "layersTip": "लेयर पैनल खोलने के लिए टूलबार में लेयर्स बटन पर क्लिक करें।",
+    "viewTip": "दृश्य विकल्प खोलने के लिए टूलबार में व्यू बटन पर क्लिक करें।",
+    "allPanels": "सभी पैनल",
+    "allPanelsTip": "सभी पैनल पॉपअप टूलबार से नियंत्रित होते हैं।"
+  },
+  "settings": {
+    "userInterface": "यूज़र इंटरफ़ेस...",
+    "windowOpacity": "विंडो अपारदर्शिता...",
+    "penMapping": "पेन मैपिंग...",
+    "penPressure": "पेन का दबाव...",
+    "multiTouch": "मल्टी-टच...",
+    "rightSideButton": "दायां/बगल बटन...",
+    "wheelDialScroller": "व्हील/डायल स्क्रोलर...",
+    "language": "भाषा...",
+    "leftHanded": "बाएं हाथ का उपयोग",
+    "flipToolbar": "टूलबार पलटें"
+  },
+  "languageDialog": {
+    "description": "एप्लिकेशन यूज़र इंटरफ़ेस के लिए प्रदर्शन भाषा बदलें।"
+  },
+  "common": {
+    "save": "सहेजें",
+    "cancel": "रद्द करें"
+  },
+  "notImplemented": {
+    "title": "सुविधा लागू नहीं की गई",
+    "description": "यह सुविधा अभी उपलब्ध नहीं है।"
+  },
+  "noRecentProjects": {
+    "title": "कोई हालिया प्रोजेक्ट नहीं",
+    "description": "यहां देखने के लिए एक प्रोजेक्ट सहेजें।"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "menu": {
+    "file": "Файл",
+    "edit": "Правка",
+    "view": "Вид",
+    "select": "Выделение",
+    "canvas": "Холст",
+    "layer": "Слои",
+    "paint": "Рисование",
+    "history": "История",
+    "panel": "Панель",
+    "settings": "Настройки"
+  },
+  "file": {
+    "new": "Новый",
+    "newProject": "Новый проект",
+    "newFromTemplate": "Новый из шаблона",
+    "open": "Открыть...",
+    "openRecent": "Последние",
+    "noRecentProjects": "Нет недавних проектов",
+    "save": "Сохранить",
+    "saveAs": "Сохранить как...",
+    "import": "Импорт...",
+    "exportAsPng": "Экспорт в PNG...",
+    "openMostRecent": "Открыть последний",
+    "close": "Закрыть"
+  },
+  "edit": {
+    "undo": "Отменить",
+    "redo": "Повторить",
+    "cut": "Вырезать",
+    "copy": "Копировать",
+    "paste": "Вставить",
+    "adjust": "Коррекция",
+    "brightnessContrast": "Яркость/Контрастность",
+    "hueSaturation": "Цветовой тон/Насыщенность",
+    "transform": "Трансформирование",
+    "scale": "Масштаб",
+    "rotate": "Вращение",
+    "fill": "Выполнить заливку",
+    "clear": "Очистить",
+    "crop": "Кадрировать"
+  },
+  "view": {
+    "showGrid": "Сетка",
+    "showRulers": "Линейки",
+    "showChannel": "Канал",
+    "flipHorizontal": "Отразить по горизонтали",
+    "flipVertical": "Отразить по вертикали",
+    "lockView": "Заблокировать вид",
+    "zoomIn": "Увеличить",
+    "zoomOut": "Уменьшить",
+    "rotateLeft": "Поворот влево",
+    "rotateRight": "Поворот вправо",
+    "fullScreen": "Во весь экран",
+    "toggleFullScreen": "Переключить полноэкранный режим"
+  },
+  "select": {
+    "selectAllRect": "Выделить всё прямоугольником",
+    "selectAllLasso": "Выделить всё лассо",
+    "selectCanvasFrame": "Выделить рамку холста",
+    "invertSelection": "Инверсия выделения",
+    "deselect": "Отменить выделение"
+  },
+  "canvas": {
+    "frameSize": "Размер холста...",
+    "useInfinite": "Бесконечный холст",
+    "background": "Фон холста...",
+    "unitResolution": "Единицы и разрешение...",
+    "clearCanvas": "Очистить холст..."
+  },
+  "layer": {
+    "newLayer": "Новый слой выше",
+    "mergeDown": "Объединить с нижним",
+    "duplicate": "Дублировать",
+    "delete": "Удалить",
+    "clear": "Очистить",
+    "selectAll": "Выбрать все слои",
+    "mergeAll": "Свести все слои..."
+  },
+  "paint": {
+    "resetAllBrushes": "Сбросить все кисти...",
+    "smallerBrush": "Кисть меньше",
+    "biggerBrush": "Кисть больше",
+    "defaultColors": "Цвета по умолчанию",
+    "swapColors": "Поменять цвета местами",
+    "darker": "Темнее",
+    "brighter": "Ярче",
+    "grayer": "Серый",
+    "purer": "Чище",
+    "cooler": "Холоднее",
+    "warmer": "Теплее"
+  },
+  "history": {
+    "newFromHistory": "Новый из истории",
+    "clearHistory": "Очистить историю...",
+    "setHistoryLimit": "Лимит истории..."
+  },
+  "panel": {
+    "showHide": "Показать/Скрыть панели",
+    "showConsole": "Консоль",
+    "showTool": "Инструменты",
+    "showLine": "Линия",
+    "showBrushList": "Список кистей",
+    "showBrushOptions": "Настройки кисти",
+    "showColor": "Цвет",
+    "showLayers": "Слои",
+    "showSelect": "Выделение",
+    "showView": "Вид",
+    "showSidebar": "Боковая панель",
+    "showNumpad": "Цифровая клавиатура",
+    "showExportbar": "Панель экспорта",
+    "showPerformance": "Производительность",
+    "closeAll": "Закрыть все панели",
+    "toolTip": "Нажмите на значок инструмента или используйте горячие клавиши (например, B для кисти).",
+    "brushTip": "Нажмите на значок кисти на панели для выбора кисти.",
+    "brushOptionsTip": "Ползунки размера и непрозрачности кисти доступны на панели.",
+    "colorTip": "Нажмите на цвет в панели для открытия палитры.",
+    "layersTip": "Нажмите на кнопку слоев для открытия панели слоев.",
+    "viewTip": "Нажмите на виды для открытия настроек вида.",
+    "allPanels": "Все панели",
+    "allPanelsTip": "Все панели управляются с панели инструментов."
+  },
+  "settings": {
+    "userInterface": "Интерфейс...",
+    "windowOpacity": "Непрозрачность окна...",
+    "penMapping": "Настройки пера...",
+    "penPressure": "Нажим пера...",
+    "multiTouch": "Мультитач...",
+    "rightSideButton": "Правая/боковая кнопка...",
+    "wheelDialScroller": "Колесо обозрения/скроллер...",
+    "language": "Язык (Language)...",
+    "leftHanded": "Для левшей",
+    "flipToolbar": "Отразить панель инструментов"
+  },
+  "languageDialog": {
+    "description": "Изменение языка интерфейса приложения."
+  },
+  "common": {
+    "save": "Сохранить",
+    "cancel": "Отмена"
+  },
+  "notImplemented": {
+    "title": "Функция не реализована",
+    "description": "Эта функция пока не доступна."
+  },
+  "noRecentProjects": {
+    "title": "Нет недавних проектов",
+    "description": "Сохраните проект, чтобы увидеть его здесь."
+  }
+}
