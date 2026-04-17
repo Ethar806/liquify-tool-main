@@ -1,4 +1,4 @@
-# dependencies
+# dependencies (never upload - hundreds of MB)
 /node_modules
 /.pnp
 .pnp.js
@@ -6,11 +6,12 @@
 # testing
 /coverage
 
-# next.js
+# next.js build cache (generated, not needed)
 /.next/
 
-# production
+# production next export
 /build
+next-export/
 
 # misc
 .DS_Store
@@ -40,11 +41,11 @@ pubsub-debug.log*
 ui-debug.log*
 firebase-export*
 
-# electron
-dist/
-dist-electron/
-release/
-*.asar
+# electron build artifacts (exclude OLD builds & huge chromium license html)
+dist/LiquifyTool-win32-x64/
+dist/win-unpacked/
+dist/builder-debug.yml
+**/LICENSES.chromium.html
 
 # generated error/compile logs (junk)
 compile.log
@@ -60,9 +61,6 @@ tsc_output_v2.txt
 
 # test scripts
 test-electron.js
-
-# next static export
-next-export/
 
 # misc junk
 .modified
